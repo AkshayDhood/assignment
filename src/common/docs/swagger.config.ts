@@ -5,7 +5,7 @@ const options: swaggerJsdoc.Options = {
     openapi: '3.0.0',
     servers: [{ url: '/api' }],
     info: {
-      title: `Assignment API's`,
+      title: `Quiz Application API's`,
       version: '1.0.0',
       description: 'API documentation',
     },
